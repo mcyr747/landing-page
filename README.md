@@ -1,1 +1,2 @@
 # landing-page
+In this project I built a landing page, utilizing skills such as CSS and HTML to format the page how I wanted. I am happy with how this turned out, and in total, this probably took me around 6 hours to build.
